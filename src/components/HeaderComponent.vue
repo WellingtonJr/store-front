@@ -33,7 +33,13 @@
               ></router-link
             >
           </li>
-          <li><a href="#" class="nav-link px-2 text-white">Produtos</a></li>
+          <li>
+            <router-link to="/produtos"
+              ><a href="#" class="nav-link px-2 text-white"
+                >Produtos</a
+              ></router-link
+            >
+          </li>
           <!-- <li><a href="#" class="nav-link px-2 text-white">Pricing</a></li>
           <li><a href="#" class="nav-link px-2 text-white">FAQs</a></li> -->
           <li><a href="#" class="nav-link px-2 text-white">Sobre</a></li>
